@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_class		QA
 %define		_subclass	Peardoc_Coverage
 %define		_status		stable
